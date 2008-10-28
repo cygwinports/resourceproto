@@ -1,6 +1,6 @@
 resourceproto
 ------------------------------------------
-Xorg XRes protocol headers
+X.Org XRes protocol headers
 
 Build requirements:
   cygwin-1.5.20-1
