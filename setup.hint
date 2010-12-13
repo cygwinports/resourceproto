@@ -1,3 +1,4 @@
 category: X11
+requires: xproto
 sdesc: "X.Org XRes extension headers"
 ldesc: "X.Org XRes extension headers"
